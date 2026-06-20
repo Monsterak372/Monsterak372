@@ -30,7 +30,7 @@ Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krala7&layout=compact&theme=radial" alt="Top Langs" height="150" />
 </p>
 
-*(Not: Eğer GitHub kullanıcı adın tam olarak "Krala7" değilse, yukarıdaki grafik linklerinde yer alan `username=Krala7` kısımlarını kendi kullanıcı adınla değiştirmeyi unutma.)*
+**
 
 ---
 
