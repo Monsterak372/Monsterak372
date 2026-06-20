@@ -6,7 +6,7 @@ Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum.
 - 🌱 Şu anda aktif olarak **Java** ve **C#** dilleri üzerinde projeler geliştiriyorum.
 - 🛠️ Temellerine hakim olduğum ve ilgilendiğim diğer diller: **C++** ve **Python**.
 - 🔭 Ağ yönetimi, sistem güvenliği ve nesne yönelimli programlama (OOP) konularına odaklanmış durumdayım.
-- 💬 Bana Java/C# projeleri, algoritma mantığı veya ağ teknolojileri hakkında danışabilirsiniz.
+- 💬 Bana Java/C# projeleri, algoritmo mantığı veya ağ teknolojileri hakkında danışabilirsiniz.
 
 ---
 
@@ -26,11 +26,9 @@ Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum.
 ## 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krala7&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krala7&layout=compact&theme=radial" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Monsterak372&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterak372&layout=compact&theme=radial" alt="Top Langs" height="150" />
 </p>
-
-**
 
 ---
 
