@@ -1,45 +1,41 @@
-# Selamlar, ben [Adın Soyadın]! 👋
+# Selamlar, ben Krala7! 👋
 
 ## 🚀 Hakkımda
-Ben **[Ünvanın / Öğrenciysen Bölümün]** olarak kendimi geliştiriyorum. Teknolojiyi kullanarak hayatı kolaylaştıran projeler üretmeyi, temiz ve sürdürülebilir kod yazmayı seviyorum. Şu sıralar **[Öğrendiğin veya İlgi Duyduğun Alan, Örn: Frontend Geliştirme / Yapay Zeka]** üzerine odaklanmış durumdayım.
+Ben **Bilişim Bölümü Ağ Teknisyenliği** alanında kendimi geliştiriyorum. Ağ teknolojilerinin yanı sıra yazılım geliştirme süreçlerine de büyük bir tutku duyuyorum. Aktif olarak güçlü ve performanslı yazılımlar üretmek için çalışıyorum.
 
-- 🔭 Şu anda **[Şu an yaptığın proje veya staj]** üzerinde çalışıyorum.
-- 🌱 Kendimi geliştirdiğim konular: **[Örn: React, Node.js, Docker]**
-- 💬 Bana **[Örn: Web mimarileri, JavaScript veya Algoritmalar]** hakkında danışabilirsiniz.
-- ⚡ Eğlenceli bilgi: **[Kendinle ilgili yazmak istediğin hobin veya küçük bir bilgi, Örn: Kahve demleme tekniklerine bayılırım!]**
+- 🌱 Şu anda aktif olarak **Java** ve **C#** dilleri üzerinde projeler geliştiriyorum.
+- 🛠️ Temellerine hakim olduğum ve ilgilendiğim diğer diller: **C++** ve **Python**.
+- 🔭 Ağ yönetimi, sistem güvenliği ve nesne yönelimli programlama (OOP) konularına odaklanmış durumdayım.
+- 💬 Bana Java/C# projeleri, algoritma mantığı veya ağ teknolojileri hakkında danışabilirsiniz.
 
 ---
 
 ## 🛠️ Teknolojiler ve Araçlar
 
 ### 💻 Programlama Dilleri
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Frameworkler & Kütüphaneler / Araçlar
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🌐 Ağ ve Diğer Araçlar
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-*(Not: Yukarıdaki logoları kendi kullandığın dillere göre değiştirebilir veya silebilirsin.)*
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radial" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krala7&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krala7&layout=compact&theme=radial" alt="Top Langs" height="150" />
 </p>
 
-*(Önemli: Yukarıdaki iki linkte yer alan `[GITHUB_KULLANICI_ADIN]` kısımlarını silip kendi GitHub kullanıcı adını yazarsan, istatistiklerin ve en çok kullandığın diller otomatik grafik olarak görünecektir.)*
+*(Not: Eğer GitHub kullanıcı adın tam olarak "Krala7" değilse, yukarıdaki grafik linklerinde yer alan `username=Krala7` kısımlarını kendi kullanıcı adınla değiştirmeyi unutma.)*
 
 ---
 
 ## 📫 Benimle İletişime Geçin
-Eğer projelerim hakkında konuşmak, iş birliği yapmak veya sadece kahve eşliğinde sohbet etmek isterseniz bana buralardan ulaşabilirsiniz:
+Eğer projelerim hakkında konuşmak veya ağ/yazılım dünyası üzerine fikir alışverişi yapmak isterseniz bana buralardan ulaşabilirsiniz:
 
-- 💼 **LinkedIn:** [[LinkedIn Profil Linkin](https://linkedin.com/in/kullaniciadin)]
-- 📧 **E-posta:** [[E-posta Adresin](mailto:ornek@mail.com)]
-- 🌐 **Kişisel Web Sitem:** [[Varsa Sitenin Linki](https://siteniz.com)]
+- 🌐 **Web Sitesi:** [novacrat.tr](https://www.novacrat.tr)
+- 📧 **E-posta:** [krala71461@gmail.com](mailto:krala71461@gmail.com)
